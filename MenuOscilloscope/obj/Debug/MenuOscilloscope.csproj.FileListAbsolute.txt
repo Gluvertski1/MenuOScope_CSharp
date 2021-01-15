@@ -1,0 +1,1 @@
+c:\users\jared\documents\visual studio 2013\Projects\MenuOscilloscope\MenuOscilloscope\bin\Debug\MenuOscilloscope.exe.config
